@@ -1,6 +1,0 @@
-[submodule "themes/github-style"]
-	path = themes/github-style
-	url = git@github.com:shinn-lancelot/github-style.git
-[submodule "themes/pulp"]
-	path = themes/pulp
-	url = git@github.com:shinn-lancelot/pulp.git
