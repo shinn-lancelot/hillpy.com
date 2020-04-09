@@ -1,6 +1,6 @@
 baseurl = "https://hillpy.com/"
 title = "Hillpy"
-theme = "github-style"
+theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
 # pygmentsCodefences = true
@@ -23,6 +23,8 @@ hasCJKLanguage = true
     singlePageDateFormat = "January 2, 2006"
     custom_css = ["/css/custom.css"]
     custom_js = ["/js/custom.js"]
+    icp = "浙ICP备17046501号-1"
+    organization = "hillpy"
 
 [outputs]
     section = ["JSON", "HTML"]

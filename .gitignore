@@ -3,6 +3,6 @@
 .vscode
 
 resources
-# themes/*
+themes/*
 public
 !.gitkeep
