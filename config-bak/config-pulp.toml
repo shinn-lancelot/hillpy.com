@@ -1,6 +1,6 @@
 baseurl = "https://hillpy.com/"
 title = "Hillpy"
-theme = "github-style"
+theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
 # pygmentsCodefences = true
