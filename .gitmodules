@@ -1,0 +1,3 @@
+[submodule "themes/pulp"]
+	path = themes/pulp
+	url = https://github.com/shinn-lancelot/pulp.git
