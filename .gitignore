@@ -2,7 +2,6 @@
 .idea
 .vscode
 
-resources
 themes/*
 public
 !.gitkeep
