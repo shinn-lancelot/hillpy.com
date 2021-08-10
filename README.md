@@ -4,14 +4,10 @@
 
 > My personal website. 我的个人站点。
 
-### Create Article
+### Create Blog
 
 ```shell
-    $ hugo new about.md
-```
-
-```shell
-    $ hugo new post/first.md
+    $ hugo new blog/first.md
 ```
 
 ### Run
