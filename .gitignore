@@ -1,6 +1,7 @@
 .DS_Store
 .idea
 .vscode
+.hugo_build.lock
 
 themes/*
 public

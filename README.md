@@ -4,6 +4,12 @@
 
 > My personal website. 我的个人站点。
 
+### Install Submodule
+
+```shell
+    $ git submodule update --init --recursive
+```
+
 ### Create Blog
 
 ```shell
